@@ -1,4 +1,4 @@
 # tictactoe_test
 
 
-<a href="https://hameedo79.github.io/tictactoe/" target="_blank">Demo</a>
+<a target="_blank" href="https://hameedo79.github.io/tictactoe/">Demo</a>
