@@ -3,4 +3,4 @@
 
 ## Demo
 
-https://hameedo79.github.io/tictactoe/
+<a href=:https://hameedo79.github.io/tictactoe/">Demo</a>
