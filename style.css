@@ -1,0 +1,30 @@
+#tic-tac-toe #board {
+    margin: 30px auto;
+    overflow: auto;
+}
+
+#tic-tac-toe .block {
+    width: 100px;
+    height: 100px;
+    float: left;
+    text-align: center;
+    line-height: 100px;
+    font-size: 50px;
+    cursor: pointer;
+}
+
+#tic-tac-toe .block.dark {
+    background-color: #f1f3f5;
+}
+
+#tic-tac-toe .block.light {
+    background-color: #f8f9fa;
+}
+
+#tic-tac-toe .block.isX {
+    color: #1864ab;
+}
+
+#tic-tac-toe .block.isO {
+    color: #a61e4d;
+}
